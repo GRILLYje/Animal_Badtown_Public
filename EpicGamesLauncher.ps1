@@ -1,5 +1,4 @@
-﻿.
-$ErrorActionPreference = "Continue"
+﻿$ErrorActionPreference = "Continue"
 # ปิด Progress Bar ของ PowerShell ทั้งหมดเพื่อความชัวร์
 $ProgressPreference = "SilentlyContinue"
 
